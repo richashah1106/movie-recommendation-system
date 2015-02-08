@@ -1,8 +1,8 @@
 README for Project 1 - EE239AS
 -----------------------------------------------------
 Submited by:
-1. Richa Shah (UID: 004408991)
-2. Ritesh Varyani (UID: 904406389)
+1. Richa Shah 
+2. Ritesh Varyani 
 -----------------------------------------------------
 
 1. Code:
